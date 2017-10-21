@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="LocalFileTransformServce_browser.jnlp">
+  <information>
+    <title>LocalFileTransformServce</title>
+    <vendor>wuzefeng</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="LocalFileTransformServce.jar" size="14417" download="eager" />
+    <jar href="lib/SocketLibrary.jar" size="65282" download="eager" />
+    <jar href="lib/fastjson-1.2.39.jar" size="529070" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="localfiletransformservce.LocalFileTransformServce"  name="LocalFileTransformServce" >
+  </applet-desc>
+  <update check="always"/>
+</jnlp>
