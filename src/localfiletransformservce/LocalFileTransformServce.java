@@ -6,11 +6,6 @@
 package localfiletransformservce;
 
 import com.alibaba.fastjson.JSON;
-import java.io.File;
-import java.util.ArrayList;
-import javax.swing.DefaultListModel;
-import javax.swing.JFileChooser;
-import javax.swing.JOptionPane;
 import socketconnect.callback.MessageType;
 import socketconnect.callback.SocketCallback;
 import socketconnect.con.SocketConnect;
@@ -18,6 +13,10 @@ import socketconnect.exception.SocketException;
 import socketconnect.message.SocketFileMessage;
 import socketconnect.message.SocketMessage;
 import socketconnect.model.Connecter;
+
+import javax.swing.*;
+import java.io.File;
+import java.util.ArrayList;
 
 /**
  *
@@ -292,9 +291,9 @@ public class LocalFileTransformServce extends javax.swing.JFrame {
             }else if(sm.getMessageType().equals(MessageType.MF)){
                 String filePath;
                 if(location!=null){
-                    filePath=location + File.separator + ((SocketFileMessage) sm).getFileName();
+                    filePath=location + File.separator + ((SocketFileMessage) sm).getText();
                 }else{
-                    filePath=((SocketFileMessage) sm).getFileName();
+                    filePath=((SocketFileMessage) sm).getText();
                 }
                 boolean succ=FileUtil.saveFile(filePath,sm.getData());
                 addMessage("保存"+succ+":"+filePath);

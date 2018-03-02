@@ -16,9 +16,8 @@
 
 ### 存在的问题：
 
-1.传输的速度比较慢，只适合小文件的传输。
+1.传输的速度比较慢，传输大文件稳定性不好。
 
-2.传输大文件时可能会保存（之前测试时传输较大的歌曲就报错了，主要原因是数据使用json，导致解析时过大报错）
 
 ### 客户端和底层socket库
 
@@ -27,7 +26,17 @@
 底层库：https://github.com/earthWo/ZFSocketLibrary
 
 ### License
+Copyright 2017 wuzefeng
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-BSD, part MIT and Apache 2.0. See the [LICENSE](https://github.com/bumptech/glide/blob/master/LICENSE) file for details.
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 ## 
