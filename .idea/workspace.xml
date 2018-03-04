@@ -2,111 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c8c2591-419f-49e7-9f50-faf17d8a8fe7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_39.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LocalFileTransformServce.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/SocketConnect.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/proto/SocketData.proto" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/callback/CallbackSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/callback/MessageCallback.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/callback/MessageType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/callback/OrderType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/callback/SocketCallback.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/callback/SocketDataType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketConnect.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketDataParse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHeartSender.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageReceiver.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageSender.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/config/SocketConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/exception/SocketException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketFileMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketImageMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketTextMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketVideoMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketVoiceMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/model/Connecter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/model/ServiceOrder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/proto/SocketDataProtos.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/utils/ByteUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/protobuf-java-3.5.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/LocalFileTransformServce/localfiletransformservce/FileRequest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/LocalFileTransformServce/localfiletransformservce/FileUtil.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/LocalFileTransformServce/localfiletransformservce/LocalFileTransformServce$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/LocalFileTransformServce/localfiletransformservce/LocalFileTransformServce$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/LocalFileTransformServce/localfiletransformservce/LocalFileTransformServce$3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/LocalFileTransformServce/localfiletransformservce/LocalFileTransformServce$4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/LocalFileTransformServce/localfiletransformservce/LocalFileTransformServce$5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/LocalFileTransformServce/localfiletransformservce/LocalFileTransformServce$6.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/LocalFileTransformServce/localfiletransformservce/LocalFileTransformServce.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/callback/CallbackSet.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/callback/MessageCallback.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/callback/MessageType.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/callback/OrderType.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/callback/SocketCallback.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/callback/SocketDataType.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketConnect.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketDataParse$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketDataParse$ParserThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketDataParse.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHeartSender$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHeartSender$HeartThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHeartSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHelper$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHelper$ConnectThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHelper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageReceiver$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageReceiver$ReceiverThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageReceiver.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageSender$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageSender$SendThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/config/SocketConfig.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/exception/SocketException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/message/SocketFileMessage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/message/SocketImageMessage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/message/SocketMessage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/message/SocketTextMessage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/message/SocketVideoMessage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/message/SocketVoiceMessage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/model/Connecter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/model/ServiceOrder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/proto/SocketDataProtos$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/proto/SocketDataProtos$SocketData$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/proto/SocketDataProtos$SocketData$Builder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/proto/SocketDataProtos$SocketData.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/proto/SocketDataProtos$SocketDataOrBuilder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/proto/SocketDataProtos.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/utils/ByteUtil.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/文件传输/Screenshot_2018-01-22-16-43-13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/文件传输/Screenshot_2018-02-27-17-12-46.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketFileReceiver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketFileSender.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHeartReceiver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/model/ReceiveInterface.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/SocketLibrary.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/LocalFileTransformServce.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/LocalFileTransformServce.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/LocalFileTransformServce.jnlp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/LocalFileTransformServce_browser.jnlp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/lib/SocketLibrary.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/lib/fastjson-1.2.39.jar" afterPath="$PROJECT_DIR$/libs/fastjson-1.2.39.jar" />
-      <change beforePath="$PROJECT_DIR$/dist/web-files/dtjava.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/web-files/error.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/web-files/get_java.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/web-files/get_javafx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/web-files/javafx-chrome.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/web-files/javafx-loading-100x100.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/web-files/javafx-loading-25x25.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/web-files/upgrade_java.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/web-files/upgrade_javafx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fastjson-1.2.39.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
-      <change beforePath="$PROJECT_DIR$/src/localfiletransformservce/LocalFileTransformServce.java" afterPath="$PROJECT_DIR$/src/localfiletransformservce/LocalFileTransformServce.java" />
+      <change beforePath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketDataParse.java" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketDataParse.java" />
+      <change beforePath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHeartSender.java" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHeartSender.java" />
+      <change beforePath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java" />
+      <change beforePath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageReceiver.java" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageReceiver.java" />
+      <change beforePath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageSender.java" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageSender.java" />
+      <change beforePath="$PROJECT_DIR$/SocketConnect/src/socketconnect/model/Connecter.java" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/model/Connecter.java" />
+      <change beforePath="$PROJECT_DIR$/SocketConnect/src/socketconnect/utils/ByteUtil.java" afterPath="$PROJECT_DIR$/SocketConnect/src/socketconnect/utils/ByteUtil.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketDataParse$ParserThread.class" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketDataParse$ParserThread.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketDataParse.class" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketDataParse.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHeartSender$HeartThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHeartSender.class" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHeartSender.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHelper$ConnectThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHelper.class" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketHelper.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageReceiver$ReceiverThread.class" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageReceiver$ReceiverThread.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageReceiver.class" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageReceiver.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageSender$SendThread.class" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageSender$SendThread.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageSender.class" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/con/SocketMessageSender.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/model/Connecter.class" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/model/Connecter.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/utils/ByteUtil.class" afterPath="$PROJECT_DIR$/out/production/SocketConnect/socketconnect/utils/ByteUtil.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,94 +36,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LocalFileTransformServce$LocalFileTransformServce.coverage" NAME="LocalFileTransformServce Coverage Results" MODIFIED="1520155077957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>localfiletransformservce.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LocalFileTransformServce.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/localfiletransformservce/LocalFileTransformServce.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1892">
-              <caret line="297" column="0" lean-forward="false" selection-start-line="297" selection-start-column="0" selection-end-line="297" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SocketConnect.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketConnect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1022">
-              <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-              <folding>
-                <element signature="e#977#978#0" expanded="true" />
-                <element signature="e#1016#1017#0" expanded="true" />
-                <element signature="e#3748#3749#0" expanded="true" />
-                <element signature="e#3795#3796#0" expanded="true" />
-                <element signature="e#3856#3857#0" expanded="true" />
-                <element signature="e#3909#3910#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SocketHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="277" column="16" lean-forward="false" selection-start-line="277" selection-start-column="16" selection-end-line="277" selection-end-column="16" />
-              <folding>
-                <element signature="e#2098#2099#0" expanded="true" />
-                <element signature="e#2152#2153#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SocketDataParse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketDataParse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="342" column="0" lean-forward="false" selection-start-line="342" selection-start-column="0" selection-end-line="342" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SocketMessageReceiver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="108" column="53" lean-forward="true" selection-start-line="108" selection-start-column="53" selection-end-line="108" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SocketDataType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/callback/SocketDataType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -215,8 +61,21 @@
       <find>mConnectThread</find>
       <find>callback</find>
       <find>closeAllConnect</find>
-      <find>mConnecter</find>
       <find>connectSuccess</find>
+      <find>servce</find>
+      <find>ConnectThread</find>
+      <find>receiver</find>
+      <find>mReceiver</find>
+      <find>getReceiver</find>
+      <find>mThread</find>
+      <find>sendHeardMessage</find>
+      <find>mConnecter</find>
+      <find>mMessageDeuqe</find>
+      <find>mReceiveQueue</find>
+      <find>mConnecter.put</find>
+      <find>mFileThread</find>
+      <find>mParse</find>
+      <find>ReceiverThread</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -240,14 +99,21 @@
         <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketImageMessage.java" />
         <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketTextMessage.java" />
         <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketVoiceMessage.java" />
-        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageSender.java" />
         <option value="$PROJECT_DIR$/src/localfiletransformservce/LocalFileTransformServce.java" />
         <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/proto/SocketDataProtos.java" />
-        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketDataParse.java" />
-        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageReceiver.java" />
-        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java" />
         <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketConnect.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/model/Connecter.java" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/model/ReceiveInterface.java" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/utils/ByteUtil.java" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageSender.java" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageReceiver.java" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketDataParse.java" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHeartSender.java" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHeartReceiver.java" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketFileSender.java" />
+        <option value="$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketFileReceiver.java" />
       </list>
     </option>
   </component>
@@ -258,9 +124,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="695" />
+    <option name="x" value="1320" />
+    <option name="y" value="-423" />
+    <option name="width" value="1397" />
+    <option name="height" value="796" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -280,24 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LocalFileTransformServce" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LocalFileTransformServce" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="LocalFileTransformServce" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LocalFileTransformServce" type="616d4139:PackageViewModuleNode" />
-              <item name="localfiletransformservce" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -325,32 +175,30 @@
             </path>
             <path>
               <item name="LocalFileTransformServce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LocalFileTransformServce" type="462c0819:PsiDirectoryNode" />
-              <item name="SocketConnect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="socketconnect" type="462c0819:PsiDirectoryNode" />
-              <item name="con" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LocalFileTransformServce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LocalFileTransformServce" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LocalFileTransformServce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LocalFileTransformServce" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="localfiletransformservce" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LocalFileTransformServce" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LocalFileTransformServce" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LocalFileTransformServce" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="LocalFileTransformServce" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LocalFileTransformServce" type="616d4139:PackageViewModuleNode" />
+              <item name="localfiletransformservce" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -368,17 +216,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SocketConnect/src" />
+      <recent name="$PROJECT_DIR$/SocketConnect" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="socketconnect.con" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/libs" />
       <recent name="$PROJECT_DIR$/src/localfiletransformservce/proto" />
       <recent name="$PROJECT_DIR$/proto/localfiletransformservce" />
       <recent name="$PROJECT_DIR$/src/localfiletransformservce" />
       <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/SocketConnect/src" />
-      <recent name="$PROJECT_DIR$/SocketConnect" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -516,44 +367,55 @@
       <workItem from="1519954030718" duration="2649000" />
       <workItem from="1519970723603" duration="1569000" />
       <workItem from="1519974320823" duration="478000" />
-      <workItem from="1519974834657" duration="6217000" />
+      <workItem from="1519974834657" duration="6976000" />
+      <workItem from="1520143999199" duration="11000" />
+      <workItem from="1520144080264" duration="10591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11445000" />
+    <option name="totallyTimeSpent" value="22806000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="695" extended-state="0" />
-    <editor active="true" />
+    <frame x="1320" y="-423" width="1397" height="796" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15666667" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952926" sideWeight="0.49741697" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4764622" sideWeight="0.6523985" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2810271" sideWeight="0.51734316" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833335" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2810271" sideWeight="0.48265684" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952926" sideWeight="0.49741697" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298893" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18116976" sideWeight="0.49741697" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14216478" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1608856" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27666667" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27532098" sideWeight="0.66273063" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,30 +440,53 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java</url>
-          <line>104</line>
+          <url>file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHeartSender.java</url>
+          <line>77</line>
           <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java</url>
-          <line>140</line>
-          <properties />
-          <option name="timeStamp" value="11" />
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketDataParse.java</url>
-          <line>325</line>
+          <line>329</line>
           <properties />
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageReceiver.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java</url>
+          <line>133</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="36" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>mConnecter</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>request</expression-string>
         <language-id>JAVA</language-id>
@@ -615,22 +500,12 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../SocketConnect/src/socketconnect/con/SocketConnect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/localfiletransformservce/LocalFileTransformServce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3495">
           <caret line="458" column="14" lean-forward="true" selection-start-line="458" selection-start-column="14" selection-end-line="458" selection-end-column="14" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -652,7 +527,7 @@
         <state relative-caret-position="405">
           <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -704,7 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,9 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,23 +614,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketData.java" />
     <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/message/SocketFileMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -776,12 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="45" column="29" lean-forward="false" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#851#852#0" expanded="false" />
-            <element signature="e#891#892#0" expanded="false" />
-            <element signature="e#923#924#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -789,9 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -807,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,7 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-48">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,31 +678,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="826" column="17" lean-forward="false" selection-start-line="826" selection-start-column="17" selection-end-line="826" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="109" column="44" lean-forward="false" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/callback/SocketDataType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="172">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketDataParse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="342" column="0" lean-forward="false" selection-start-line="342" selection-start-column="0" selection-end-line="342" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -864,54 +693,176 @@
         <state relative-caret-position="-1892">
           <caret line="297" column="0" lean-forward="false" selection-start-line="297" selection-start-column="0" selection-end-line="297" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件传输/Screenshot_2018-02-27-17-12-46.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件传输/Screenshot_2018-01-22-16-43-13.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/model/Connecter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+            <element signature="e#1742#1743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/model/ReceiveInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/utils/ByteUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="107" column="17" lean-forward="false" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/callback/MessageType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="97" column="85" lean-forward="true" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="36" column="50" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHeartReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding>
+            <element signature="e#1199#1200#0" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHeartSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="e#2683#2684#0" expanded="true" />
+            <element signature="e#2720#2721#0" expanded="true" />
+            <element signature="e#2768#2769#0" expanded="true" />
+            <element signature="e#2812#2813#0" expanded="true" />
+            <element signature="e#2854#2855#0" expanded="true" />
+            <element signature="e#2896#2897#0" expanded="true" />
+            <element signature="e#2954#2955#0" expanded="true" />
+            <element signature="e#3008#3009#0" expanded="true" />
+            <element signature="e#3059#3060#0" expanded="true" />
+            <element signature="e#3103#3104#0" expanded="true" />
+            <element signature="e#3172#3173#0" expanded="true" />
+            <element signature="e#3230#3231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketDataParse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="325" column="0" lean-forward="false" selection-start-line="325" selection-start-column="0" selection-end-line="325" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketMessageReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="108" column="53" lean-forward="true" selection-start-line="108" selection-start-column="53" selection-end-line="108" selection-end-column="53" />
+        <state relative-caret-position="1090">
+          <caret line="109" column="12" lean-forward="true" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="61" column="14" lean-forward="false" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="277" column="16" lean-forward="false" selection-start-line="277" selection-start-column="16" selection-end-line="277" selection-end-column="16" />
+        <state relative-caret-position="372">
+          <caret line="160" column="35" lean-forward="false" selection-start-line="160" selection-start-column="35" selection-end-line="160" selection-end-column="35" />
           <folding>
-            <element signature="e#2098#2099#0" expanded="true" />
-            <element signature="e#2152#2153#0" expanded="true" />
+            <element signature="e#2684#2685#0" expanded="true" />
+            <element signature="e#2726#2727#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketConnect.java">
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketFileSender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1022">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding>
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#1016#1017#0" expanded="true" />
-            <element signature="e#3748#3749#0" expanded="true" />
-            <element signature="e#3795#3796#0" expanded="true" />
-            <element signature="e#3856#3857#0" expanded="true" />
-            <element signature="e#3909#3910#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="167">
+          <caret line="32" column="44" lean-forward="false" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/SocketConnect/src/socketconnect/con/SocketFileReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="51" column="47" lean-forward="true" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件传输/245.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
